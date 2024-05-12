@@ -28,7 +28,7 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 😂 Random Dev Meme
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
+<img src='https://i.pinimg.com/originals/ce/76/29/ce76296bd5a752f50c4dbaad852dc320.jpg' style="height: 400px;"/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=WathsalaDewmina&icon=0&color=0)](https://visitcount.itsvg.in)
